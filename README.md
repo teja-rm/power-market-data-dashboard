@@ -1,19 +1,22 @@
-# Automated Energy Data ETL Pipeline
+# Power Market Analytics Dashboard
 
-A robust, production-ready ETL pipeline for processing electricity market data with data quality monitoring, logging, and automated scheduling.
-
----
-
-## **Features**
-
-- **Extract:** Simulates data ingestion from multiple energy market sources
-- **Transform:** Data validation, cleaning, and aggregation
-- **Load:** Structured data warehouse with quality metrics
-- **Monitoring:** Comprehensive logging and quality reporting
-- **Scheduling:** Automated pipeline execution (optional)
+A Streamlit-based dashboard for visualizing and analyzing electricity market data across Nordic regions.
 
 ---
 
-## **Installation**
+## Features
+
+- **Real-time price and demand visualization**
+- **Multi-region comparison**
+- **Interactive filtering by date and hour**
+- **Price alerts and threshold monitoring**
+- **Renewable energy share tracking**
+- **Correlation heatmap for market insights**
+- **Data export (CSV & Excel)**
+- **SQLite database integration**
+
+---
+
+## Installation
 
 1. **Clone the repository** (if applicable)
